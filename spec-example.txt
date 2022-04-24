@@ -1,6 +1,6 @@
-=@ publish_at 2022-03-15
-=@ title A Custom title
-=@ description This is a description
+=: publish_at 2022-03-15
+=: title A Custom title
+=: description This is a description
 Hello world!
 I wonder where I'll float next?
 => https://erock.io
@@ -11,6 +11,6 @@ another item
 Back to basics
 ## Subheader
 Doing great
-
+=< https://i.imgur.com/iXMNUN5.jpg archlinux
 
 feeling great

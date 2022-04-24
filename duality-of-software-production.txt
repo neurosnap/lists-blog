@@ -1,4 +1,5 @@
-=@publish_at 2022-02-17
+=: publish_at 2022-02-17
+=: list_type none
 My mind is swimming against the current of project ideas. Breathe. Focus. Limit the scope and get upstream to production.
 My ideal setup is shockingly similar to a web application itself: I have a front- and back-end computer for all personal software development. As I reflect on this, I find it humorous that I’ve aligned myself with a setup that resembles so closely to how I write web apps. The duality of web and the duality of software production are united. The mind tethers the cloud.
 My back-end “server” is an old gaming rig that I have repurposed. It sits in my basement with an ethernet connection sitting right next to my home network. It is connected to a UPC so brownouts don’t interrupt my flow. I have also changed a BIOS setting so my server will turn back on automatically whenever I lose power. All of this hardware helps keep my server online and always available. The mind must never sleep.
