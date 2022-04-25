@@ -1,6 +1,7 @@
 =: publish_at 2022-03-15
-=: title A Custom title
-=: description This is a description
+=: title Plain text spec examples
+=: description Here are some examples of the plain text list format
+=: list_type decimal
 Hello world!
 I wonder where I'll float next?
 => https://erock.io
