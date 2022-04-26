@@ -1,0 +1,14 @@
+=: A list of golang resources
+=> https://go.dev/tour/welcome/1 A Tour of Go
+=> https://go.dev/doc/effective_go Effective Go
+=> https://quii.gitbook.io/learn-go-with-tests Learn Go with Tests
+=> https://objectcomputing.com/resources/publications/sett/november-2018-way-to-go-part-1 Way To Go Series
+=> https://gowebexamples.com Go Web Examples
+=> https://github.com/GoesToEleven/GolangTraining Golang Training
+=> https://github.com/smileisak/go-training/blob/master/README.md Go training
+=> https://gobyexample.com/ Go by example
+=> https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/03.2.html Build a simple web server
+=> https://learn-anything.xyz/1601 Learn anything
+=> https://github.com/golang/go/wiki/Blogs Dedicated blogs
+=> https://go.dev/blog/all go.dev blog
+=> https://github.com/amit-davidson/awesome-golang-workshops Workshops
