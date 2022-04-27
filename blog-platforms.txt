@@ -1,3 +1,5 @@
+=: description A list of popular blogging platforms
+=> https://lists.sh
 => https://bearblog.dev
 => https://mataroa.blog
 => https://dev.to

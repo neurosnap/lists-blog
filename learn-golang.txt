@@ -1,4 +1,4 @@
-=: A list of golang resources
+=: description A list of golang resources
 => https://go.dev/tour/welcome/1 A Tour of Go
 => https://go.dev/doc/effective_go Effective Go
 => https://quii.gitbook.io/learn-go-with-tests Learn Go with Tests
