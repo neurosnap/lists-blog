@@ -1,2 +1,4 @@
 =: description something something darkside
 => https://erock.io website
+=> https://fosstodon.org/@erock mastodon
+=> https://github.com/neurosnap github
