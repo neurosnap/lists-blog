@@ -1,4 +1,4 @@
-=: description The different reasons to use a browser
+=: description How to promote competition in the browser market
 # problem statement
 The browser is ubiquitous in modern society.  It is the modern day operating system.  The chromium browser has ~35 million lines of code with millions of lines of code added every year.
 The compeition for browsers has been dwindling.  The only people that can compete are massive billion dollar companies.
