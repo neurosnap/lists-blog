@@ -1,0 +1,17 @@
+=: description The different reasons to use a browser
+# problem statement
+The browser is ubiquitous in modern society.  It is the modern day operating system.  The chromium browser has ~35 million lines of code with millions of lines of code added every year.
+The compeition for browsers has been dwindling.  The only people that can compete are massive billion dollar companies.
+Any new "browser" that emerges are just chromium reskins.
+# idea
+The browser serves many use cases, they must be broken up in order to make feature sets managable for smaller teams.
+# document browser
+To start, create a document rendering browser only (html and css)
+Support http1 and 2, and tls
+Gracefully handle js by detecting if the page is empty, if it is, open a normal browser.
+We could even preload links when user hovers and try tk open the browser when they click on the link?
+Have a premium feature with a server running puppeteer that will render first paint and send the html and css to the browser
+Maybe we focus on rendering blogs really well.
+# names
+shorey
+dawny
