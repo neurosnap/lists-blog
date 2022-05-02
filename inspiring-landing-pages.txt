@@ -1,11 +1,11 @@
 =: description landing pages to get your creativity flowing
-vercel.com
-railway.app
-planetscale.com
-raycast.com
-linear.app
-clerk.dev
-popupsmart.com
-tuple.app
-bannerbear.com
-fig.io
+=> vercel.com
+=> railway.app
+=> planetscale.com
+=> raycast.com
+=> linear.app
+=> clerk.dev
+=> popupsmart.com
+=> tuple.app
+=> bannerbear.com
+=> fig.io
