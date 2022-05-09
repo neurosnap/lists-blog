@@ -1,27 +1,35 @@
 =: publish_at 2022-02-17
-=: list_type none
 =: description Using a client and server setup for software development
-My mind is swimming against the current of project ideas. Breathe. Focus. Limit the scope and get upstream to production.
-My ideal setup is shockingly similar to a web application itself: I have a front- and back-end computer for all personal software development. As I reflect on this, I find it humorous that I’ve aligned myself with a setup that resembles so closely to how I write web apps. The duality of web and the duality of software production are united. The mind tethers the cloud.
-My back-end “server” is an old gaming rig that I have repurposed. It sits in my basement with an ethernet connection sitting right next to my home network. It is connected to a UPC so brownouts don’t interrupt my flow. I have also changed a BIOS setting so my server will turn back on automatically whenever I lose power. All of this hardware helps keep my server online and always available. The mind must never sleep.
 
-## The benefits of having a server for software development is multi-faceted:
+# duality
+My mind is swimming against the current of project ideas. Breathe. Focus. Limit the scope and head upstream.
+My ideal setup is shockingly similar to a web application itself: I have a front- and back-end computer for all personal software development. As I reflect on this, I find it humorous that I’ve aligned myself with a setup that resembles so closely to how I write web apps. The duality of web and the duality of software production are united.
+My back-end “server” is an old gaming rig that I have repurposed. It sits in my basement with an ethernet connection sitting right next to my home network. It is connected to a UPC so brownouts don’t interrupt my flow. I have also changed a BIOS setting so my server will turn back on automatically whenever I lose power. All of this hardware helps keep my server online and always available.
+
+# benefits of having a server for software development is multi-faceted:
 I can have as many front-end clients as I want and can pickup exactly where I left off (continuity)
 I don’t need to install any software on my client computers except for ssh (consistency)
 Any heavy processing doesn’t cause my client to overheat and scorch my thighs (power)
 The specs of the client doesn’t really matter that much (flexibility)
 
-My front-end clients consist of a few machines. I have a framework laptop that I purchased late last year. It is a fantastic ultra thin laptop that I would highly recommend to anyone interested in a similar setup. I have my primary gaming rig that I’ll sometimes use when I don’t want to switch computers. I also have an iPad that I can be perfectly productive using.
-In order to make this workflow feasible, I need to move as much of my software tools into the terminal. The mind wanders into the undying lands of text.
+# why it's great
+The other really amazing feature of this setup is since I have a server, it doesn’t matter what front-end I use, I’ll always pick up exactly where I left off.
+It also makes long-running tasks easier to handle since I don’t have to worry about my computer going to sleep while it’s processing. For example, I can have a full ethereum node running in a tmux session and I don’t have to worry about it getting interrupted.
+My front-end clients consist of a few machines. I have a framework laptop that I purchased late last year. It is a fantastic ultra thin laptop that I would highly recommend to anyone interested in a similar setup. I have my primary gaming rig that I’ll sometimes use when I don’t want to switch computers. I also have an iPad that I can be perfectly productive using with this setup.
+In order to make this workflow feasible, I need to move as much of my software tools into the terminal.
 
-## I accomplish this goal with a couple of tools:
+# tooling
 mosh (ssh alternative that allows for intermittent connectivity)
 tmux (tabs and window panes for terminals)
 neovim (IDE, tabs and window panes)
+zerotier (so I can connect to my server from anywhere)
 
+# neovim
 Only recently has this workflow accelerated my productivity and that’s primarily because of neovim with its introduction of LSP and treesitter support.
-> Want to get started with neovim? Check out neovimcraft[0] for a curated list of neovim plugins
-=> https://neovimcraft.com [0] neovimcraft
+> Want to get started with neovim? Check out neovimcraft for a curated list of neovim plugins
+=> https://neovimcraft.com neovimcraft
 
-Previously I used VSCode, which was a fantastic code editor / IDE, but ultimately it is a GUI and this ruins my duality.
-The constant drip of perfecting my workflow is a drug to my mind. Breathe. Focus. The mind distracts itself from what matters.
+# wrap it up
+Previously I used VSCode, which is a nice code editor / IDE, but ultimately it doesn’t fit into a terminal-based workflow so I eventually migrated off of it. I haven’t used vscode in years both whether it’s professional work or a side project. 
+I pretty much live in the terminal.
+The constant drip of perfecting my workflow is a drug to my mind. Breathe. Focus.
