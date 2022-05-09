@@ -1,3 +1,4 @@
+=: title On the browser monopoly
 =: description How to promote competition in the browser market
 
 # Problem statement

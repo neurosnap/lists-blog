@@ -2,3 +2,4 @@
 => https://erock.io website
 => https://fosstodon.org/@erock mastodon
 => https://github.com/neurosnap github
+=> https://github.com/neurosnap/lists-blog repo
