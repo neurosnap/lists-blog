@@ -1,33 +1,34 @@
 =: description How to promote competition in the browser market
 
 # Problem statement
-The browser is ubiquitous in modern society.  It is the modern day operating system.  The chromium browser has ~35 million lines of code with millions of lines of code added every year.
-The compeition for browsers has been dwindling.  The only people that can compete are massive billion dollar companies.
-Any new "browser" that emerges are just chromium reskins.
+The browser is ubiquitous in society.  It is the modern day operating system.  The chromium browser has ~35 million lines of code with millions of lines of code added every year.
+The competition for browsers has been dwindling.  The only people that can compete are massive billion dollar companies.
+Any new "browser" that emerges are just chromium reskins.  Why is that?
 
 # Idea
-The browser serves many use cases, they must be broken up in order to make feature sets managable for smaller teams.
+Smaller teams cannot write 35 million lines of code, it is beyond their reach.
+The browser serves many use-cases, what if we broke the browser up into many different apps?
 
-# Use cases
-Sharing and reading documents
-Linking between documents
-Linking between websites
-Display animations
-Allow user to submit information via forms
-Allow user to interact with website to display complex information (e.g. accordian, menus, drawers, etc.)
-Allow the user to query for information and have that data displayed without full page reloads (AJAX)
-Allow the user to have a desktop application experience
+# Browser use-cases
+Sharing, reading, and linking documents
+Displaying multimedia (e.g. images, videos)
+Displaying visualizations
+Allowing the user to submit information via forms
+Allowing the user to interact with website to display complex information (e.g. accordion, menus, drawers, etc.)
+Allowing the user to query for information and have that data displayed without full page reloads (AJAX)
+Allowing the user to have a desktop application experience
 
-# Document browser
+# Sharing, reading, and linking documents
 To start, create a document rendering browser
 Support HTML 5
 Support CSS 3
 Support HTTP 1.1, 2.0, and TLS protocols
 Gracefully handle when we cannot properly render a page by opening the link in the OS default browser.
-Have a premium feature with a server running puppeteer that will render first paint and send the html and css to the browser.
-Maybe we focus on rendering blogs really well.
-Another idea is to not abide by the styling rules of each website and instead design a cohesive design experience.
+Maybe focus on rendering blogs really well.
+Maybe have a premium feature with a server running puppeteer that will render first paint and send the html and css to the browser.
+Maybe remove website specific styling altogether and instead design a consistent design that optimizes navigation and readability.
 
-# Possible names
-shorey
-dawny
+# What do you think?
+I just cannot get over how on one hand browsers are so ubiquitous in modern society and yet immune from real competitive.
+We need fresh ideas in the browser space and we cannot feasibly do that without dramatically reducing its complexity.
+I want a minimal, modern set of browsing tools where I don't have to make any sacrifices between usability and compliance with the standards.
