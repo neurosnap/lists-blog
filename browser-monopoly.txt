@@ -33,3 +33,7 @@ Maybe remove website specific styling altogether and instead design a consistent
 I just cannot get over how on one hand browsers are so ubiquitous in modern society and yet immune from real competitive.
 We need fresh ideas in the browser space and we cannot feasibly do that without dramatically reducing its complexity.
 I want a minimal, modern set of browsing tools where I don't have to make any sacrifices between usability and compliance with the standards.
+
+# References
+
+=> https://macwright.com/2020/08/22/clean-starts-for-the-web.html A clean start for the web
