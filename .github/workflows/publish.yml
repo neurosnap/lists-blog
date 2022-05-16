@@ -6,6 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-18.04
     steps:
+      - uses: actions/checkout@master
       - name: Publish to lists.sh
         uses: garygrossgarten/github-action-scp@release
         with:
