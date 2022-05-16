@@ -4,11 +4,11 @@ on:
     branches: [main]
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
       - name: Publish to lists.sh
-        uses: neurosnap/lists-publish-action@v1.0.0
+        uses: neurosnap/lists-publish-action@main
         with:
           user: erock
           key: ${{ secrets.PRIVATE_KEY }}
