@@ -9,7 +9,7 @@ jobs:
   - name: Publish to lists.sh
     uses: garygrossgarten/github-action-scp@release
     with:
-      local: *.txt
+      local: '*.txt'
       remote: /
       host: lists.sh
       username: erock
