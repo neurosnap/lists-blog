@@ -4,12 +4,12 @@ on:
     branches: [main]
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
       - name: Publish to lists.sh
         uses: garygrossgarten/github-action-scp@release
         with:
-          local: .
+          local: /
           remote: /
           host: lists.sh
           username: erock
