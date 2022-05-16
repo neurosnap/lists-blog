@@ -1,0 +1,16 @@
+name: publish
+on:
+  push:
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+  steps:
+  - name: Publish to lists.sh
+    uses: garygrossgarten/github-action-scp@release
+    with:
+      local: *.txt
+      remote: /
+      host: lists.sh
+      username: erock
+      privateKey: ${{ secrets.PRIVATE_KEY }}
