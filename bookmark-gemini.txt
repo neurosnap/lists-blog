@@ -4,6 +4,8 @@
 => gemini://geddit.glv.one
 => gemini://drewdevault.com/cgi-bin/man.sh
 => gemini://gemi.dev/cgi-bin/wp.cgi/
+=> gemini://cryptocrawl.space/
+=> gemini://tilde.team/~bqb/awesome-gemini.gmi
 
 # fun reading
 => gemini://republic.circumlunar.space/users/flexibeast
@@ -13,5 +15,5 @@
 => gemini://rawtext.club/~sloum/spacewalk.gmi
 => gemini://gemi.dev/gemlog
 
-# technical blogs
+# technical
 => gemini://erock.io
