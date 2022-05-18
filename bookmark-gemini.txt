@@ -1,6 +1,6 @@
 =: description useful or interesting links in the gemiverse
 
-# Services
+# services
 => gemini://geddit.glv.one
 => gemini://drewdevault.com/cgi-bin/man.sh
 => gemini://gemi.dev/cgi-bin/wp.cgi/
@@ -14,6 +14,7 @@
 => gemini://calcuode.com/gmisub-aggregate.gmi
 => gemini://rawtext.club/~sloum/spacewalk.gmi
 => gemini://gemi.dev/gemlog
+=> gemini://medusae.space
 
 # technical
 => gemini://erock.io
