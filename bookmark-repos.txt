@@ -4,4 +4,4 @@
 => https://sr.ht/~taiite/senpai
 
 # Gemini
-=> https://git.sr.ht/~adnano/go-gemini
+=> https://sr.ht/~adnano/go-gemini

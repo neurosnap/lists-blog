@@ -15,6 +15,7 @@
 => gemini://rawtext.club/~sloum/spacewalk.gmi
 => gemini://gemi.dev/gemlog
 => gemini://medusae.space
+=> gemini://review.treeblue.space
 
 # technical
 => gemini://erock.io
