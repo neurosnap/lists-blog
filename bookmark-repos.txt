@@ -1,0 +1,7 @@
+=: description useful project repos I want to keep track of
+# IRC
+=> https://sr.ht/~emersion/soju
+=> https://sr.ht/~taiite/senpai
+
+# Gemini
+=> https://git.sr.ht/~adnano/go-gemini
