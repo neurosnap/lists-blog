@@ -3,7 +3,7 @@ upload:
 .PHONY: upload
 
 upload-local:
-	scp -P 2222 -O *.txt localhost:
+	scp -i ~/.ssh/id_ed25519 -P 2222 -O *.txt localhost:
 .PHONY: upload-local
 
 ssh:
