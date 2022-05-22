@@ -9,6 +9,7 @@
 
 # fun reading
 => gemini://warmedal.se/~antenna
+=> gemini://flounder.online/
 => gemini://republic.circumlunar.space/users/flexibeast
 => gemini://foo.zone
 => gemini://calcuode.com/gmisub-aggregate.gmi
