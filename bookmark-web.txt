@@ -2,4 +2,9 @@
 
 # engineering
 => https://jasonformat.com/application-holotypes Application Holotypes
+
+# products / services
 => https://lichen.sensorstation.co Lichen CMS
+=> https://git.zx2c4.com/cgit
+=> https://crabmail.flounder.online
+=> https://codemadness.org/stagit.html
