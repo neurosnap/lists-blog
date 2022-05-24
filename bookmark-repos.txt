@@ -7,3 +7,7 @@
 => https://sr.ht/~adnano/go-gemini
 => https://sr.ht/~adnano/kiln
 => https://git.alexwennerberg.com/flounder
+
+# Other
+=> https://sr.ht/~vpzom/lotide link aggregator using ActivityPub
+
