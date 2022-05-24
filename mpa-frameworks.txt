@@ -1,0 +1,9 @@
+=: description alternative approaches to building front-end applications with minimal javascript
+
+=> https://hotwired.dev
+=> https://markojs.com
+=> https://alpinejs.dev
+=> https://htmx.org
+=> https://astro.build
+=> https://qwik.builder.io
+=> https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html
