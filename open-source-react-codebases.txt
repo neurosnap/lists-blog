@@ -1,4 +1,5 @@
 =: list of large open source react codebases to use as references
+=> https://github.com/RocketChat/Rocket.Chat
 => https://github.com/ProtonMail/WebClients
 => https://github.com/pancakeswap/pancake-frontend
 => https://github.com/HospitalRun/hospitalrun-frontend
