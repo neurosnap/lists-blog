@@ -10,4 +10,4 @@
 
 # Other
 => https://sr.ht/~vpzom/lotide link aggregator using ActivityPub
-
+=> https://sr.ht/~rjarry/aerc/ email client
