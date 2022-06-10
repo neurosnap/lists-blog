@@ -5,3 +5,4 @@
 => https://aerc-mail.org/ aerc
 => https://github.com/leahneukirchen/mblaze mblaze
 => https://www.nongnu.org/nmh/ nmh
+=> http://sup-heliotrope.github.io/ sup
