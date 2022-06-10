@@ -1,0 +1,7 @@
+=: description a list of MUA terminal mail tools
+
+=> http://www.mutt.org/ mutt
+=> https://neomutt.org/ neomutt
+=> https://aerc-mail.org/ aerc
+=> https://github.com/leahneukirchen/mblaze mblaze
+=> https://www.nongnu.org/nmh/ nmh
