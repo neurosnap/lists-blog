@@ -7,3 +7,11 @@
 => https://www.nongnu.org/nmh/ nmh
 => http://sup-heliotrope.github.io/ sup
 => https://www.djcbsoftware.nl/code/mu/ mu
+=> https://github.com/pazz/alot alot
+=> https://github.com/astroidmail/astroid astroid
+=> https://github.com/wangp/bower bower
+=> https://github.com/akissinger/dodo dodo
+=> https://github.com/emdete/epistula epistula
+=> https://github.com/soywod/himalaya himalaya
+=> https://wiki.archlinux.org/title/Alpine alpine
+=> http://www.instinct.org/elm/ elm
