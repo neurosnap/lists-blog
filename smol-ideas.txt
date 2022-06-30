@@ -1,0 +1,5 @@
+# ssh apps
+
+subscribe to rss feed and send daily digest
+link aggregator
+robust commenting system

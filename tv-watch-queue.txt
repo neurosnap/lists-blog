@@ -4,7 +4,5 @@
 # tv shows
 better call saul
 the expense
-schitt's creek
 
 # movies
-spinaltap
