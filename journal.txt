@@ -1,4 +1,5 @@
-description := general purpose log
+=: title journal
+=: description general purpose log
 
 # 2022-07-10
 # 2022-07-09
