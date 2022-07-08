@@ -1,9 +1,9 @@
 =: description a collection of services where you can paste text files and share them
 
-https://paste.sr.ht
-http://ix.io
-https://paste.rs
-https://bpa.st
-https://gist.github.com
-https://paste.ubuntu.com
-https://pastebin.mozilla.org
+=> https://paste.sr.ht
+=> http://ix.io
+=> https://paste.rs
+=> https://bpa.st
+=> https://gist.github.com
+=> https://paste.ubuntu.com
+=> https://pastebin.mozilla.org
