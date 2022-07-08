@@ -1,5 +1,6 @@
 =: description A list of the best linux laptops
 => https://frame.work Framework
+=> https://kde.slimbook.es
 => https://system76.com/laptops System76
 => https://www.tuxedocomputers.com/en Tuxedo
 => https://laptopwithlinux.com Laptop with Linux
