@@ -7,3 +7,6 @@
 => https://gist.github.com
 => https://paste.ubuntu.com
 => https://pastebin.mozilla.org
+=> https://zerobin.net
+=> https://controlc.com
+=> https://rentry.co
