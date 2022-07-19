@@ -11,3 +11,4 @@
 => https://zerobin.net
 => https://controlc.com
 => https://rentry.co
+=> https://0x0.st
