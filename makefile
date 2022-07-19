@@ -1,9 +1,9 @@
 upload:
-	scp -i ~/.ssh/id_ed25519 -O *.txt erock@lists.sh:
+	scp *.txt erock@lists.sh:
 .PHONY: upload
 
 upload-local:
-	scp -i ~/.ssh/id_ed25519 -O -P 2222 *.txt localhost:
+	scp -P 2222 *.txt localhost:
 .PHONY: upload-local
 
 ssh:
