@@ -8,7 +8,8 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Publish to lists.sh
-        uses: neurosnap/lists-publish-action@main
+        uses: picosh/scp-publish-action@main
         with:
           user: erock
           key: ${{ secrets.PRIVATE_KEY }}
+          host: lists.sh
