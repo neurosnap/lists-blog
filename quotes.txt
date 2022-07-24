@@ -1,14 +1,32 @@
 =: description quotes that inspire me
 
+## Philosophers
+
 "But wherever I found the living, there I heard also the speech on obedience. Whatever lives, obeys. And this is the second point: he who cannot obey himself is commanded. That is the nature of the living." -- (Thus Spoke Zarathustra)
 "I still live, I still think: I still have to live, for I still have to think." -- Nietzsche
-"Writing is easy, just open your editor and bleed." -- Adapted from Hemmingway
-"We're all in the gutter, but some of us are looking at the stars." -- Oscar Wilde
 "No man ever steps into the same river twice, for it is not the same river; and he is not the same man." -- Heraclitus
-"You cannot teach a man anything, you can only help him to find it within himself." -- Galileo Galilei
 "Out of the crooked timber of humanity, not a straight is made." -- Immanuel Kant
-"Imagination was given to man to compensate him for what he is not, and a sense of humor was provided to console him for what he is." — Oscar Wilde
-"I am not young enough to know everything." -- Oscar Wilde
 "It is the mark of an educated mind to be able to entertain an idea without accepting it." -- Aristotle
 "A mind all logic is like a knife all blade; It makes the hand bleed that wields it." — Rabindranath Tagore
-"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." - Ernest Hemingway
+
+## Scientists
+
+"You cannot teach a man anything, you can only help him to find it within himself." -- Galileo Galilei
+
+## Writers
+
+"Writing is easy, just open your editor and bleed." -- Adapted from Hemmingway
+"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." -- Ernest Hemingway
+"In the beginning the Universe was created. This has made a lot of people very angry and has been widely regarded as a bad move." -- Douglas Adams
+"The trouble with having an open mind is that people will insist on coming along and trying to put things in it." -- Terry Pratchett
+"Brevity is the soul of wit" -- Shakespeare from Hamlet
+"Confidence — it's the food of the wise man, but the liquor of the fool." -- Vikram?
+
+## Oscar Wilde
+
+"We're all in the gutter, but some of us are looking at the stars."
+"Imagination was given to man to compensate him for what he is not, and a sense of humor was provided to console him for what he is."
+"I am not young enough to know everything."
+"Be yourself; everyone else is taken."
+"A man who does not think for himself does not think at all."
+"Experience is merely the name men gave to their mistakes."
