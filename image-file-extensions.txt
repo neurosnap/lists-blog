@@ -1,0 +1,25 @@
+# raster
+jpg (.jpg, .jpeg, .jpe .jif, .jfif, .jfi)
+jpeg 2000 (.jp2, .j2k, .jpf, .jpx, .jpm, .mj2)
+png (.png)
+gif (.gif)
+webp (.webp)
+tiff (.tiff, .tif)
+raw (.raw, .arw, .cr2, .nrw, .k25)
+bmp (.bmp, .dib)
+heif (.heif, .heic)
+
+# vector
+svg (.svg, .svgz)
+
+# document
+pdf (.pdf)
+
+# video
+mp4 (.mp4)
+mov (.mov)
+wmv (.wmv)
+flv (.flv)
+avi (.avi)
+webm (.webm)
+mkv (.mkv)
