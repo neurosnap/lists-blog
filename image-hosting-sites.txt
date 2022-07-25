@@ -1,6 +1,6 @@
 => https://imgur.com
 => https://snap.as
-=> http://0x0.st
+=> https://0x0.st
 => https://lensdump.com
 => https://postimage.io
 => https://cubeupload.com
@@ -12,6 +12,8 @@
 => https://catbox.moe
 => https://vgy.me
 => https://imgbox.com
-=> https://unsee.cc
 => https://imgpile.com
 => https://bayimg.com
+=> https://imgbb.com
+=> https://photos.google.com
+=> https://dropbox.com
