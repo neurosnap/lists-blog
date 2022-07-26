@@ -17,3 +17,4 @@
 => https://imgbb.com
 => https://photos.google.com
 => https://dropbox.com
+=> https://img.vision
