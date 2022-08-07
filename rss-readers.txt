@@ -4,6 +4,7 @@
 => https://feedly.com
 => https://feedbin.com
 => https://sumi.news
+=> https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa?hl=en-US
 
 # rss to email
 
