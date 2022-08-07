@@ -1,0 +1,15 @@
+=: description market research on rss readers
+
+=> https://www.inoreader.com
+=> https://feedly.com
+=> https://feedbin.com
+=> https://sumi.news
+
+# rss to email
+
+=> https://mailbrew.com
+=> https://briefcake.com
+=> https://blogtrottr.com
+=> https://feedmail.org
+=> https://mailchimp.com/features/rss-to-email
+=> https://rssby.email
