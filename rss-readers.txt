@@ -5,6 +5,11 @@
 => https://feedbin.com
 => https://sumi.news
 => https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa?hl=en-US
+=> https://newsblur.com
+=> https://newsboat.org
+=> https://betamagic.nl/products/newsexplorer.html
+=> https://bazqux.com/
+=> https://apps.kde.org/akregator/
 
 # rss to email
 
