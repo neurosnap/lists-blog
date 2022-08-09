@@ -1,4 +1,7 @@
+=: title RSS Readers
 =: description market research on rss readers
+
+# reader apps
 
 => https://www.inoreader.com
 => https://feedly.com
