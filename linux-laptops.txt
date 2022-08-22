@@ -14,3 +14,5 @@
 => https://www.msi.com/Business-Productivity/Modern-15-A11X MSI Modern 15
 => https://rog.asus.com/laptops/rog-strix/2021-rog-strix-g15-advantage-edition-series/spec ROG Strix G15
 => https://support.hp.com/us-en/document/c06680927 HP EliteBook 840 G7
+
+What am i doing?
