@@ -1,0 +1,23 @@
+=: title smol
+=: description collection of resources relating to the smol ecosystem
+
+# what is the smol web?
+
+=> https://thedorkweb.substack.com/p/gopher-gemini-and-the-smol-internet
+=> https://communitywiki.org/wiki/SmolNet
+=> https://ar.al/2020/08/07/what-is-the-small-web
+
+# smol sites
+
+=> https://prose.sh
+=> https://plaintextsports.com
+=> https://wttr.in
+=> https://buttondown.email
+=> https://tildeverse.org
+=> https://rawtext.club
+
+# smol tools
+
+=> https://github.com/kognise/water.css
+=> https://plaintextaccounting.org
+=> https://useplaintext.email
