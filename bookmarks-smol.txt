@@ -1,5 +1,6 @@
 =: title smol
 =: description collection of resources relating to the smol ecosystem
+=: tags smol
 
 # what is the smol web?
 

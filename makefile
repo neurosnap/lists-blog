@@ -1,5 +1,5 @@
 upload:
-	scp *.txt erock@lists.sh:
+	scp -O *.txt erock@lists.sh:
 .PHONY: upload
 
 upload-local:
