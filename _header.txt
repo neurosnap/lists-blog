@@ -1,5 +1,4 @@
 =: description something something darkside
-=> https://erock.io website
-=> https://fosstodon.org/@erock mastodon
-=> https://github.com/neurosnap github
-=> https://github.com/neurosnap/lists-blog repo
+=> mailto:lists@erock.io lists@erock.io
+=> https://pico.sh pico
+=> https://git.sr.ht/~erock/lists-blog repo
