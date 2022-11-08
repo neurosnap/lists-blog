@@ -1,4 +1,5 @@
-=: description something something darkside
+=: description Lists written by Eric Bower
+=: layout aside
 => mailto:lists@erock.io lists@erock.io
 => https://pico.sh pico
 => https://git.sr.ht/~erock/lists-blog repo
