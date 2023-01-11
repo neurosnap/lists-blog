@@ -1,14 +1,15 @@
 =: title watches wishlist
 =: description list of watches I'd like to own
 
+# owned
 => https://www.brew-watches.com/watches/brew-metric-retro-black brew metric retro dial - $425
-=> https://usd.farer.com/products/lander-midnight farer lander midnight - $1,450
-=> https://www.rolex.com/en-us/watches/oyster-perpetual/m126000-0001.html rolex oyster perpetual 36 - $5,800
-=> https://www.omegawatches.com/en-us/watch-omega-speedmaster-38-co-axial-chronometer-chronograph-38-mm-32430385001001 omega speedmaster 38 - $5,100
-=> https://www.tissotwatches.com/en-us/t1274071104100.html tissot gentleman powermatic 80 - $775
-=> https://www.grand-seiko.com/us-en/collections/sbga211g grand seiko snowflake - $6,300
-=> https://www.hamiltonwatch.com/en-us/h70555533-khaki-field-auto.html hamilton khaki field auto - $575
-=> https://www.orientwatchusa.com/collections/contemporary-classic/fac00009w0 orient bambino - $195
-=> https://www.seikowatches.com/us-en/products/5sports/srpe53 seiko 5 - $275
-=> https://www.casio.com/us/watches/gshock/product.DW-5600E-1V/?utm_medium=cpc&utm_source=google&utm_campaign=17242161760&utm_content=g&utm_term=&gclid=CjwKCAiA9qKbBhAzEiwAS4yeDS21s_0RZe5afpybUxpcyJHy2tC8aqVtgzb5i_LXVxK0EmdVaaxqEhoC5u4QAvD_BwE casio gshock DW5600E-1V - $75
-=> https://www.bulova.com/us/en/product/96B258.html bulova lunar pilot - $620
+
+# sports
+=> https://www.rolex.com/en-us/watches/oyster-perpetual/m126000-0003.html oyster perpetual bright blue - $6100
+=> https://www.sinn.de/en/Modell/556_I_B.htm sinn 556 IB - $1200
+=> https://www.timex.com/giorgio-galli-s1-automatic-38mm/Giorgio-Galli-S1-Automatic-38mm.html?dwvar_Giorgio-Galli-S1-Automatic-38mm_color=Stainless-Steel-Blue&cgid=men-shop-all#prefn1=caseWidth&prefv1=36%E2%94%82 timex giorgio galli - $450
+=> https://montawatch.com/products/monta-noble-blue-dial monta noble - $1800
+
+# dress
+=> https://nomos-glashuette.com/en/orion/orion-309 nomos orion - $2100
+=> https://www.junghans.de/en/collection/watches/junghans-max-bill/max-bill-automatic/27470002?c=26 junghans max bill - $1400
