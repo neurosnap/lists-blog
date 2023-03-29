@@ -1,0 +1,25 @@
+=: title Homelab
+
+# current
+
+=> https://www.amazon.com/gp/product/B07DY16W2Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 ARRIS SURFboard SB8200 DOCSIS 3.1 Cable Modem
+=> https://www.amazon.com/gp/product/B078PGCGN2/ref=ox_sc_saved_title_2?smid=A10EKJIGOUCP2N&psc=1 Ubiquiti EdgeRouter 4
+=> https://www.amazon.com/gp/product/B01MU3WUX1/ref=ox_sc_saved_title_10?smid=ATVPDKIKX0DER&psc=1 UniFi Switch 8 60W (US-8-60W)
+=> https://www.amazon.com/gp/product/B07FFNTLJD/ref=ox_sc_saved_title_4?smid=AAZRLVTNON75Z&psc=1 UniFi nanoHD Internal AP (x2)
+=> https://www.amazon.com/gp/product/B06VY6FXMM/ref=ox_sc_saved_title_9?smid=ATVPDKIKX0DER&psc=1 APC UPS 1500VA UPS Battery Backup
+=> https://www.amazon.com/gp/product/B087ZCBWFH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 Synology 2 bay NAS DiskStation DS220+ (8TB)
+=> https://pcpartpicker.com/list/4Tgm68 dev pc
+=> https://pcpartpicker.com/list/FVNVdm gaming pc
+
+# next
+
+=> https://www.amazon.com/gp/product/B07DY16W2Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 ARRIS SURFboard SB8200 DOCSIS 3.1 Cable Modem
+=> https://www.startech.com/en-us/server-management/4postrack18u 18U 19" Open Frame Server Rack - 4 Post Adjustable Depth 22-40" Mobile
+=> https://store.ui.com/collections/operator-accessories/products/edgemax-universal-rack-mount-kit EdgeMax Universal Rack Mount Kit
+=> https://www.amazon.com/gp/product/B078PGCGN2/ref=ox_sc_saved_title_2?smid=A10EKJIGOUCP2N&psc=1 Ubiquiti EdgeRouter 4
+=> https://store.ui.com/collections/unifi-network-switching/products/usw-24-poe UniFi Switch 24 PoE
+=> https://www.amazon.com/gp/product/B07FFNTLJD/ref=ox_sc_saved_title_4?smid=AAZRLVTNON75Z&psc=1 UniFi nanoHD Internal AP (x2)
+=> https://www.amazon.com/Rosewill-RSV-L4500U-Thickness-Rackmount-Server/dp/B01JBG0LW0/ref=sr_1_1?content-id=amzn1.sym.9575273b-ecd8-4648-9bf0-15f20c657e0a&keywords=4u+atx+chassis&pd_rd_r=6f06bc84-2d9f-4101-bdb7-a6dcf3a53096&pd_rd_w=hSRza&pd_rd_wg=vipXO&pf_rd_p=9575273b-ecd8-4648-9bf0-15f20c657e0a&pf_rd_r=2C5M0F00YHRQ7GBRRKT0&qid=1680062597&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840 Rosewill 4U Server Chassis 15 Bay Server Case 15x 3.5 HDD Bays, E-ATX Board, Rackmount Server Case (x2 for dev and gaming pc)
+nas
+    => https://frame.work/products/cooler-master-mainboard-case
+    => https://frame.work/products/mainboard-11th-gen-intel-core?v=FRANFG000B i7-1165G7 mainboard
