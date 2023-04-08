@@ -20,7 +20,8 @@
 => https://www.amazon.com/Keystone-Support-Rapink-Shielded-Removable/dp/B092QX76QJ 1U 24-port patch panel
 => https://store.ui.com/collections/unifi-network-switching/products/usw-24-poe 1U UniFi Switch 24 PoE
 => https://www.amazon.com/gp/product/B07FFNTLJD/ref=ox_sc_saved_title_4?smid=AAZRLVTNON75Z&psc=1 UniFi nanoHD Internal AP (x2)
-=> https://www.amazon.com/Rosewill-RSV-L4500U-Thickness-Rackmount-Server/dp/B01JBG0LW0/ref=sr_1_1?content-id=amzn1.sym.9575273b-ecd8-4648-9bf0-15f20c657e0a&keywords=4u+atx+chassis&pd_rd_r=6f06bc84-2d9f-4101-bdb7-a6dcf3a53096&pd_rd_w=hSRza&pd_rd_wg=vipXO&pf_rd_p=9575273b-ecd8-4648-9bf0-15f20c657e0a&pf_rd_r=2C5M0F00YHRQ7GBRRKT0&qid=1680062597&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840 4U Rosewill Server Chassis 15 Bay Server Case 15x 3.5 HDD Bays, E-ATX Board, Rackmount Server Case (x2 for dev and gaming pc)
+=> https://www.amazon.com/CyberPower-OR500LCDRM1U-System-Outlets-Rackmount/dp/B000XJJN60/ref=sr_1_15?hvadid=557457383748&hvdev=c&hvlocphy=9016852&hvnetw=g&hvqmt=e&hvrand=3570872363213068189&hvtargid=kwd-304496434028&hydadcr=18040_13447358&keywords=apc%2Brack%2Bmount%2Bbattery%2Bbackup&qid=1680926519&sr=8-15&th=1 Cyberpower 500VA UPC
+=> https://www.startech.com/en-us/server-management/cabshelf116 1U server rack shelf (x2)
     => https://pcpartpicker.com/list/4Tgm68 dev pc
     => https://pcpartpicker.com/list/FVNVdm gaming pc
 1U nas
