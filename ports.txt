@@ -1,0 +1,23 @@
+=: title plugged into laptop
+I've been struggling to find a hub that works well for my work laptop (2023 14" mbp m2)
+I gave up having a switch that works with display ports
+
+# peripherals
+1x usb-a switch
+1x usb-c yubikey
+1x usb-c display port
+1x audio
+1x charger
+1x bose headphone charger
+
+# shared with desktop
+1x usb-a switch (4-port usb-a)
+1x display port
+
+# hub
+Cable Matters Triple Monitor USB C Hub
+    3x display port
+    2x usb-a
+    1x usb-c
+    1x ethernet
+    1x power
