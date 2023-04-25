@@ -1,10 +1,16 @@
 =: description A list of websites that I find interesting
 
+# daily
+
+=> https://fastmail.com fm
+=> https://news.ycombinator.com hn
+=> https://github.com/neurosnap github
+=> https://youtube.com yt
+=> https://fosstodon.org fosstodon
+
 # engineering
 => https://jasonformat.com/application-holotypes Application Holotypes
 
-# products / services
-=> https://lichen.sensorstation.co Lichen CMS
+# git
 => https://git.zx2c4.com/cgit
-=> https://crabmail.flounder.online
 => https://codemadness.org/stagit.html
