@@ -1,16 +1,6 @@
 =: title mic desktop wishlist
 
-# old
-=> https://www.amazon.com/gp/product/B07QR6Z1JB/ref=ox_sc_saved_title_10?smid=ATVPDKIKX0DER&th=1 Focusrite Scarlett Solo 3rd Gen USB Audio Interface
-=> https://www.amazon.com/gp/product/B0006H92QK/ref=ox_sc_saved_title_5?smid=ATVPDKIKX0DER&th=1 Audio-Technica AT2020
-=> https://www.amazon.com/gp/product/B07V2FJL54/ref=ox_sc_saved_title_7?smid=A1TYDSEH6NM9Q2&th=1 InnoGear Microphone Arm Stand
-=> https://www.amazon.com/gp/product/B01JNLTTKS/ref=ox_sc_saved_title_6?smid=ATVPDKIKX0DER&th=1 Amazon Basics Standard XLR Male to Female Balanced Microphone Cable
-=> https://www.amazon.com/gp/product/B01LZIDS2A/ref=ox_sc_saved_title_8?smid=A3BKX8HRUIZWX&th=1 AT2020 Pop Filter by Vocalbeat
-=> https://www.amazon.com/gp/product/B083TKC2CQ/ref=ox_sc_saved_title_9?smid=A3CWN84PBBY4PZ&psc=1 AT2020 Shock Mount - Microphone
-
-# new
-
 => https://www.amazon.com/gp/product/B07QR6Z1JB/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1 Focusrite Scarlett Solo 3rd Gen USB Audio Interface ($120)
-=> https://www.bhphotovideo.com/c/product/1424787-REG/deity_microphones_smic_s_mic_shotgun_mic.html Deity Microphones S-Mic 2 Moisture-Resistant Shotgun Microphone ($359)
-=> https://www.amazon.com/gp/product/B001D7UYBO/ref=ox_sc_act_title_4?smid=ALHQ4LI8FCDXO&th=1 Rode PSA1 ($100)
-=> https://www.amazon.com/gp/product/B01JNLUA5G/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&th=1 Standard XLR Male to Female Balanced Microphone Cable ($14)
+=> https://www.amazon.com/gp/product/B001URFZKM/ref=ox_sc_act_image_2?smid=ATVPDKIKX0DER&th=1 Sennheiser Professional MKE 600 Shotgun Microphone ($316)
+=> https://www.amazon.com/gp/product/B001URFZKM/ref=ox_sc_act_image_2?smid=ATVPDKIKX0DER&th=1 Blue Compass Boom Arm ($100)
+=> https://www.amazon.com/gp/product/B001URFZKM/ref=ox_sc_act_image_2?smid=ATVPDKIKX0DER&th=1 Monoprice XLR Male to XLR Female Cable ($12)
