@@ -6,6 +6,7 @@
 => https://news.ycombinator.com hn
 => https://github.com/neurosnap github
 => https://youtube.com yt
+=> https://music.youtube.com music
 => https://fosstodon.org fosstodon
 
 # engineering
