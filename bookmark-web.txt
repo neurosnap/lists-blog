@@ -1,4 +1,4 @@
-=: description A list of websites that I find interesting
+=: description A list of interesting websites
 
 # daily
 
@@ -8,10 +8,3 @@
 => https://youtube.com yt
 => https://music.youtube.com music
 => https://fosstodon.org fosstodon
-
-# engineering
-=> https://jasonformat.com/application-holotypes Application Holotypes
-
-# git
-=> https://git.zx2c4.com/cgit
-=> https://codemadness.org/stagit.html
