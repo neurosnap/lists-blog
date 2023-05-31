@@ -8,3 +8,7 @@
 => https://youtube.com yt
 => https://music.youtube.com music
 => https://fosstodon.org fosstodon
+
+# memberships
+
+=> https://members.cahoots.com cahoots
