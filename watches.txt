@@ -1,16 +1,15 @@
 =: title watches wishlist
-=: description list of watches I'd like to own
+=: description list of watches that interest me
 
 # owned
 => https://www.brew-watches.com/watches/brew-metric-retro-black brew metric retro dial - $425
 => https://www.casio.com/us/watches/casio/product.F-91W-1/ casio f-91w - $15
 => https://www.casio.com/us/watches/casio/product.F-105W-1A/ casio f-105w - $25
+=> https://www.hamiltonwatch.com/en-us/h69439363-khaki-field-mechanical.html Hamilton Khaki H69419363 H-50 Field Mechanical 38mm Green Dial - $350
 
-# microbrands
-=> https://zeloswatches.com/products/starfighter-chronograph-aventurine zelos starfighter aventurine chrono - $2000
+# want
+=> https://www.mauricelacroix.com/us_en/watches/watches-aikon/aikon-automatic-39mm-ai6007-ss00f-430-c Maurice Lacroix Aikon 39mm - $2300
 => https://zeloswatches.com/products/nova-38mm-aventurine zelos nova aventurine - $1000
 => https://zeloswatches.com/products/comet-39mm-aventurine zelos comet aventurine - $700
-=> https://www.traskawatch.com/products/commuter-woodland-green?variant=43140129587423 traska commuter woodland green - $565
 => https://usd.farer.com/products/lander-midnight farer lander midnight - $1500
-=> https://usd.farer.com/products/meredith farer meredith salmon - $2400
 => https://montawatch.com/products/monta-atlas-monta-blue-dial monta atlas gmt - $2000
